@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Phee (Aspiring MU-EGCO37)
+# I'm Pea MU-EGCO37
 
-🎓 Aspiring Engineering Student @ **Mahidol University (MU-EGCO)**  
 💡 Interested in **AI / Computer Vision / Full-Stack / Embedded Systems**  
-🚀 Building real-world projects with code, hardware, and data
-
----
 
 ## 🧠 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python,c,cpp,dart,js,html,swift&theme=dark)
