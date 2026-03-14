@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# I'm Pea — MU-EGCO37
+# My name is Phatthanasak Kraiduang — MU-EGCO37
 
-💡 Interested in **AI / Computer Vision / Full-Stack / Embedded Systems**
+💡 Interested in **Data Science / Full-Stack / Embedded Systems**
 
 ## Tech Stack
 
