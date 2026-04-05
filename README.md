@@ -1,5 +1,5 @@
-Phatthanasak Kraiduang  
-Incoming Bachelor’s Student in Computer Engineering, Mahidol University  
+## Phatthanasak Kraiduang  
+## Incoming Bachelor’s Student in Computer Engineering, Mahidol University  
 
 Aspiring AI Engineer / Full-Stack Developer with experience in:
 - Computer Vision (YOLO, Machine Learning, Deep Learning)
