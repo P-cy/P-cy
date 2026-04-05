@@ -1,4 +1,4 @@
-## Phatthanasak Kraiduang  
+## Hi My name is Phatthanasak Kraiduang  
 ## Incoming Bachelor’s Student in Computer Engineering, Mahidol University  
 
 Aspiring AI Engineer / Full-Stack Developer with experience in:
