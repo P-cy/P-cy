@@ -10,6 +10,6 @@ Aspiring AI Engineer / Full-Stack Developer with experience in:
 
 Languages: Python, C, JavaScript, TypeScript, Dart
 AI/ML: PyTorch, TensorFlow, Keras, Yolo
-Frontend: React, Flutter  
-Backend: Node.js  
+Frontend: React, Vue, Flutter  
+Backend: Node.js, FastAPI  
 Tools: Git, Docker, AWS
