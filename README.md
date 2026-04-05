@@ -2,9 +2,7 @@
 ## Incoming Bachelor’s Student in Computer Engineering, Mahidol University  
 
 Aspiring AI Engineer / Full-Stack Developer with experience in:
-- Computer Vision (YOLO, Machine Learning, Deep Learning)
-- AI for Healthcare (Scoliosis Detection, CKD Screening)
-- End-to-end application development (Flutter, React)
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,dart,js,html,css,swift,pytorch,tensorflow,opencv,react,vue,vite,flutter,figma,fastapi,nodejs,nginx,aws,gcp,docker,linux,ubuntu,androidstudio,arduino,firebase,mongodb,kali)
 
 ## Tech Stack
 
