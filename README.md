@@ -1,9 +1,15 @@
-## Hi there 👋
+Phatthanasak Kraiduang  
+Incoming Bachelor’s Student in Computer Engineering, Mahidol University  
 
-# My name is Phatthanasak Kraiduang — MU-EGCO37
-
-💡 Interested in **Data Science / Full-Stack / Embedded Systems**
+Aspiring AI Engineer / Full-Stack Developer with experience in:
+- Computer Vision (YOLO, Machine Learning, Deep Learning)
+- AI for Healthcare (Scoliosis Detection, CKD Screening)
+- End-to-end application development (Flutter, React)
 
 ## Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,dart,js,html,css,swift,pytorch,tensorflow,opencv,react,vue,vite,flutter,figma,fastapi,nodejs,nginx,aws,gcp,docker,linux,ubuntu,androidstudio,arduino,firebase,mongodb,postman,git,github,kali,vscode&theme=dark)
+Languages: Python, C++, JavaScript  
+AI/ML: PyTorch, TensorFlow, OpenCV, YOLOv8  
+Frontend: React, Flutter  
+Backend: Node.js  
+Tools: Git, Docker, AWS
