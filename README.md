@@ -1,7 +1,7 @@
 ## Hi My name is Phatthanasak Kraiduang  
 ## Incoming Bachelor’s Student in Computer Engineering, Mahidol University  
 
-Aspiring AI Engineer / Full-Stack Developer / Data Engineer
+Aspiring Data Engineer | AI Engineer | MLOps
 
 Interestinh in AI Agents, RAG, LLMs, Computer Vision, MLops
 ## My Skills
