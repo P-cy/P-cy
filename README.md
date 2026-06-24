@@ -3,7 +3,7 @@
 
 Aspiring Data Engineer | AI Engineer | MLOps
 
-Interestinh in AI Agents, RAG, LLMs, Computer Vision, MLops
+Interesting in AI Agents, RAG, LLMs, Computer Vision, MLops
 ## My Skills
 ![Skills](https://skillicons.dev/icons?i=python,c,dart,js,html,swift,pytorch,tensorflow,react,vue,flutter,fastapi,nodejs,aws,docker,linux,androidstudio,arduino,firebase,mongodb,kali)
 
