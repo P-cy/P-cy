@@ -1,5 +1,5 @@
 ## Hi My name is Phatthanasak Kraiduang  
-## Incoming Bachelor’s Student in Computer Engineering, Mahidol University  
+## Bachelor’s Student in Computer Engineering, Mahidol University  
 
 Aspiring Data Engineer | AI Engineer | MLOps
 
